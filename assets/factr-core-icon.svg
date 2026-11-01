@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FACTR Core</title>
+  <desc id="desc">An open hexagonal frame around a mint-colored core on a deep teal rounded square.</desc>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="#0D5C56"/>
+  <g fill="none" stroke="#F1FAF7" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M212 132 132 178V334L212 380"/>
+    <path d="M300 132 380 178V334L300 380"/>
+  </g>
+  <path d="M256 194 310 225V287L256 318 202 287V225Z" fill="#7EE6C4"/>
+</svg>

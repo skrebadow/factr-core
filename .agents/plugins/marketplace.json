@@ -1,0 +1,12 @@
+{
+  "name": "factr-core",
+  "interface": { "displayName": "FACTR Core" },
+  "plugins": [
+    {
+      "name": "factr-core",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

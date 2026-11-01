@@ -1,0 +1,21 @@
+{
+  "name": "factr-core",
+  "version": "0.1.0",
+  "description": "Apply behavioral falsifiability to engineering work with bounded inference and claim-level traceability.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FACTR Core",
+    "shortDescription": "Reason about behavior, failure, and tests.",
+    "longDescription": "Behavioral reasoning for requirements, stories, tests, assessments, and automation. Work from available context, distinguish inference from evidence, and deliver useful results without mandatory stage artifacts. Formal conclusions retain their evidence and authority requirements.",
+    "category": "Productivity",
+    "capabilities": [],
+    "brandColor": "#0D5C56",
+    "composerIcon": "./assets/factr-core-icon.png",
+    "logo": "./assets/factr-core-icon.png",
+    "defaultPrompt": [
+      "Use FACTR Core to design tests for this behavior.",
+      "Use FACTR Core to draft a story, acceptance criteria, and proposed tests from this description.",
+      "Use FACTR Core to assess what these existing tests can detect."
+    ]
+  }
+}

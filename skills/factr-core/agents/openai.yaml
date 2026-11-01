@@ -1,0 +1,4 @@
+interface:
+  display_name: "FACTR Core"
+  short_description: "Reason about behavior, failure, and tests"
+  default_prompt: "Use $factr-core to derive testable behavior and proposed tests from this context."
